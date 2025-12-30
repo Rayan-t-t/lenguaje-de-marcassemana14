@@ -15,6 +15,6 @@ Git funciona de forma local en tu ordenador. GitHub actúa como repositorio remo
 
 ## Flujo Pull → Commit → Push
 
-Este es el ciclo habitual de trabajo cuando colaboras en un proyecto.
+Este es el ciclo habitual de trabajo cuando colaboras en un proyecto
 
 
